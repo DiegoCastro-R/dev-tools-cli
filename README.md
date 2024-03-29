@@ -17,7 +17,7 @@ Dev Tools CLI is a command-line interface (CLI) tool written in Go that simplifi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/diegocastro-r/go-dev-tools-cli.git
+   git clone https://github.com/diegocastro-r/dev-tools-cli.git
    ```
 
 2. Navigate to the project directory:
