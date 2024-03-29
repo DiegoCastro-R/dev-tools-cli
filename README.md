@@ -23,19 +23,19 @@ Dev Tools CLI is a command-line interface (CLI) tool written in Go that simplifi
 2. Navigate to the project directory:
 
    ```bash
-   cd go-dev-tools-cli
+   cd dev-tools-cli
    ```
 
 3. Build the Go program:
 
    ```bash
-   go build -o go-dev-tools main.go
+   go build -o dev-tools main.go
    ```
 
 4. Run the CLI tool:
 
    ```bash
-   ./go-dev-tools
+   ./dev-tools
    ```
 
 ## Usage
